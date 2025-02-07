@@ -64,7 +64,7 @@ python main.py
 
 ## Screenshot
 
-![Asteroids Game](https://github.com/jeffe89/asteroids/blob/main/screenshot.png)
+![Asteroids Game](https://github.com/jeffe89/asteroids/blob/main/Asteroids%20Gameplay.png)
 
 ## Project Structure
 
